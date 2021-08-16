@@ -1,0 +1,27 @@
+"Work Name"
+by: Author Name
+type: 
+link:
+description:
+usage:
+
+"Hitboxes and Hurtboxes"
+by: Rat Casket
+type: Example Project
+link: https://ratcasket.itch.io/hitboxes-and-hurtboxes
+description: example project demonstrating a platform fighter, focusing on the implementation of a custom hitbox system
+usage: Primarily is the inspiration for using enum constants and switch statements to store and call weapon stats and other information
+
+"Pixel-Perfect Object-based Collision"
+by: CardinalCoder64
+type: forum post/tutorial
+link: https://forum.yoyogames.com/index.php?threads/pixel-perfect-object-based-collision.30739/
+description: forum post detailing a method of pixel perfect object based collision
+usage: partial inspiration for collision system, after my initial system proved problematic in handling corners.
+
+"8 Directional Movement | GMS2 [1]"
+by: FriendlyCosmonaut
+type: Youtube tutorial
+link: https://www.youtube.com/watch?v=0-a0Fak7cjk&ab_channel=FriendlyCosmonaut
+description: video detailing implementation of an 8 directional movement system, common to RPGs
+usage: inspiration to replace my basic movement code with something vector based.

@@ -1,0 +1,37 @@
+"Work Name"
+by: Author Name
+type: 
+link:
+description:
+usage:
+
+"Hitboxes and Hurtboxes"
+by: Rat Casket
+type: Example Project
+link: https://ratcasket.itch.io/hitboxes-and-hurtboxes
+description: example project demonstrating a platform fighter, focusing on the implementation of a custom hitbox system
+usage: Primarily is the inspiration for using enum constants and switch statements to store and call weapon stats and other information
+
+"Pixel-Perfect Object-based Collision"
+by: CardinalCoder64
+type: forum post/tutorial
+link: https://forum.yoyogames.com/index.php?threads/pixel-perfect-object-based-collision.30739/
+description: forum post detailing a method of pixel perfect object based collision
+usage: partial inspiration for collision system, after my initial system proved problematic in handling corners.
+
+"8 Directional Movement | GMS2 [1]"
+by: FriendlyCosmonaut
+type: Youtube tutorial
+link: https://www.youtube.com/watch?v=0-a0Fak7cjk&ab_channel=FriendlyCosmonaut
+description: video detailing implementation of an 8 directional movement system, common to RPGs
+usage: inspiration to replace my basic movement code with something vector based.
+
+"Best way to do diagonal collision?"
+by: Original Poster: HSmileyFace, Response: GepardenK, Response: Noloughlin
+type: forum post
+link: https://www.reddit.com/r/gamemaker/comments/a2c31z/best_way_to_do_diagonal_collision/
+description: OP is asking about a problem with their collision code when hitting corners. GepardenK responds with a solution. Noloughlin responds with a link to "Buttery Smooth Tech Tips: Movement"
+usage: OP appeared to have a similar problem to me. GepardenK's solution fixed my issue. The article Noloughlin linked to proved useful in it's own right.
+
+https://www.yoyogames.com/blog/432/buttery-smooth-tech-tips-movement
+https://web.archive.org/web/20130514153830/http://gamedev.stackexchange.com/questions/8336/how-was-collision-detection-handled-in-the-legend-of-zelda-a-link-to-the-past
